@@ -32,10 +32,12 @@ Vídeos sobre a instalação no Linux: https://www.youtube.com/channel/danielsca
 
 - Servelt e JSP: https://docs.oracle.com/javaee/7/tutorial/servlets.htm
 - JavaScript: https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
-- HTML5: https://www.w3schools.com/html/default.asp
+- HTML 5: https://www.w3schools.com/html/default.asp
 - CSS 3: https://www.w3schools.com/css/default.asp
-- MySQL: https://dev.mysql.com/doc/refman/8.0/en/
-- Apache Tomcat: https://tomcat.apache.org/tomcat-10.0-doc/index.html
+- MySQL 8: https://dev.mysql.com/doc/refman/8.0/en/
+- Apache Tomcat 10: https://tomcat.apache.org/tomcat-10.0-doc/index.html
 - HTTP: https://developer.mozilla.org/en-US/docs/Web/HTTP
 - JSON: https://www.w3schools.com/js/js_json_intro.asp
 - XML: https://www.w3schools.com/xml/default.asp
+
+> Para sua carreira como *Engenheiro de Computação* você deve dominar a tecnologia WEB (core  - fundamentos). Aprenda bem com Java (Servlets & JSP), os conceitos se aplicam a qualquer outra _tranqueira_ de tecnologia da moda que veja a sugir.
