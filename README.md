@@ -40,11 +40,30 @@ Vídeos sobre a instalação no Linux: https://www.youtube.com/channel/danielsca
 - HTTP: https://developer.mozilla.org/en-US/docs/Web/HTTP
 - JSON: https://www.w3schools.com/js/js_json_intro.asp
 - XML: https://www.w3schools.com/xml/default.asp
+- GIT: https://git-scm.com/
 
 ### Frameworks back-end Java:
 
 - Sprin Boot: https://spring.io
 - Spark Java: https://sparkjava.com/
 - Micronaut: https://micronaut.io/
+
+### Frameworks front-end JavaScript:
+
+- IONIC: https://ionicframework.com/
+- Bootstrap: https://getbootstrap.com/
+- Apache Cordova: https://cordova.apache.org/
+
+### Estudo
+
+- Trabalhe com 1 ou 2 amigos (3 pessoas no máximo)
+- Faça paring (par programming)
+- Construa uma aplicação WEB (prática)
+- Construa uma aplicação Mobile híbrida (prática)
+- Use Git & GitHub para gestão de código, etc...
+
+> A oportunidade faverece a mente preparada - Louis Pasteur
+
+---
 
 > Para sua carreira como **Engenheiro de Computação** você deve dominar a tecnologia WEB (core  - fundamentos). Aprenda bem com Java Servlets & JSP, os conceitos se aplicam a qualquer outra _tranqueira_ de tecnologia da moda que venha a sugir (e depois desaparecer).
