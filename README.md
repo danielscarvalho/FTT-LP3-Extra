@@ -1,5 +1,5 @@
 # FTT-LP3-Extra
-Linguagem de Programação 3 (Java WEB) estudo extra
+Linguagem de Programação 3 (Java WEB) estudo extra independente
 
 CEFSA - FTT - EC (Engenharia da Computação)
 
