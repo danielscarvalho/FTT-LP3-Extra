@@ -6,7 +6,7 @@ CEFSA - FTT - EC (Engenharia da Computação)
 ### Ambiente: Instalar (Versões mais recentes)
 
 - Java (JDK 17): https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html
-- Eclipse: https://www.eclipse.org/ide/ (Se você quer IDE com rodinha pode usar o IntelliJ ou o Netbeans. Se sabe o que está fazendo pode usar o VSCode)
+- Eclipse: https://www.eclipse.org/ide/ (IDE com rodinha pode usar o IntelliJ ou o Netbeans. Se sabe o que está fazendo pode usar o VSCode)
 - Apache Tomcat: https://tomcat.apache.org/
 - Apache Maven: https://maven.apache.org/
 - MySQL: https://dev.mysql.com/downloads/
