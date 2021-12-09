@@ -62,7 +62,7 @@ Vídeos sobre a instalação no Linux: https://www.youtube.com/channel/danielsca
 - Construa uma aplicação WEB (prática)
 - Construa uma aplicação Mobile híbrida (prática)
 - Use Git & GitHub para gestão de código, etc...
-- Use arquitetura MVC (Model, View, Controller)
+- Use arquitetura MVC (Model, View, Controller) - Design Pattern
 - Desenvolva localmente (localhost - ambiente de desenvolvimento), e depois faça deploy (implatação em produção) online em nuvem (Google Cloud, AWS ou Azure)
 
 ### Ajuda
