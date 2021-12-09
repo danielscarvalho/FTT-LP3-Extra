@@ -12,7 +12,7 @@ CEFSA - FTT - EC (Engenharia da Computação)
 - Apache Maven: https://maven.apache.org/
 - MySQL: https://dev.mysql.com/downloads/
 
-Ambiente Linux é melhor, Para iniciantes:
+Ambiente Linux é melhor, para iniciantes:
  - [Ubuntu](https://ubuntu.com/)
  - [Debian](https://www.debian.org) 
 
