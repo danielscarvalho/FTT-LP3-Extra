@@ -32,6 +32,7 @@ Vídeos sobre a instalação no Linux: https://www.youtube.com/channel/danielsca
 ### Referências (documentação online e tutoriais):
 
 - Servlet e JSP: https://docs.oracle.com/javaee/7/tutorial/servlets.htm
+- Apache Maven: https://maven.apache.org/guides/
 - JavaBean: https://www.javatpoint.com/java-bean
 - JavaScript: https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
 - HTML 5: https://www.w3schools.com/html/default.asp
@@ -45,7 +46,7 @@ Vídeos sobre a instalação no Linux: https://www.youtube.com/channel/danielsca
 
 ### Frameworks back-end Java:
 
-- Sprin Boot: https://spring.io
+- Spring Boot: https://spring.io
 - Spark Java: https://sparkjava.com/
 - Micronaut: https://micronaut.io/
 
