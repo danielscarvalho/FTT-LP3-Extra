@@ -18,13 +18,13 @@ Vídeos sobre a instalação no Linux: https://www.youtube.com/channel/danielsca
 ### Estudar livros:
 
  - Head First Servlets and JSP - por Bryan Basham, Kathy Sierra, Bert Bates
- 
-![](https://m.media-amazon.com/images/I/512ENhc5KIL.jpg)
 
+<img src="https://m.media-amazon.com/images/I/512ENhc5KIL.jpg" width="600">
+ 
 - Murach's Java Servlets and JSP: por Joel Murach, Michael Urban
 
-![](https://images-na.ssl-images-amazon.com/images/I/51PNFtMQBaL._SX258_BO1,204,203,200_.jpg)
-    
+<img src="https://images-na.ssl-images-amazon.com/images/I/51PNFtMQBaL._SX258_BO1,204,203,200_.jpg" width="600">
+
 ### Vídeo:
 
 - Servlet & JSP Tutorial | Full Course - https://www.youtube.com/watch?v=OuBUUkQfBYM&t (6 horas)
@@ -83,8 +83,10 @@ Para sua carreira como **Engenheiro de Computação** você deve dominar a tecno
 <img src="https://www.jrebel.com/wp-content/uploads/2017/04/Screenshot-2017-04-12-22.49.03-640x159.png" width="600">
 https://www.jrebel.com/blog/maven-cheat-sheet
 
+<br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/JSP_Model_2.svg/1200px-JSP_Model_2.svg.png" width="600">
 https://en.wikipedia.org/wiki/JSP_model_2_architecture
 
+<br>
 <img src="https://miro.medium.com/max/700/0*ekKkBHtFr8b47CYQ.png" width="600">
 https://felipece7.medium.com/utilizando-servlet-puro-82e55ab32fbe
