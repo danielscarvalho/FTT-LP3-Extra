@@ -7,7 +7,7 @@ CEFSA - FTT - EC (Engenharia da Computação)
 
 - Java (JDK 17): https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html
 - Eclipse: https://www.eclipse.org/ide/ 
-  - IDE com rodinha pode usar o IntelliJ ou o Netbeans. Se sabe o que está fazendo pode usar o VSCode)
+  - IDE com rodinha pode usar o [IntelliJ](https://www.jetbrains.com/idea/) ou o [Netbeans](https://netbeans.apache.org/). Se sabe o que está fazendo pode usar o [VSCode](https://code.visualstudio.com/)
 - Apache Tomcat: https://tomcat.apache.org/
 - Apache Maven: https://maven.apache.org/
 - MySQL: https://dev.mysql.com/downloads/
