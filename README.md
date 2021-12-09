@@ -58,7 +58,7 @@ Vídeos sobre a instalação no Linux: https://www.youtube.com/channel/danielsca
 - Bootstrap: https://getbootstrap.com/
 - Apache Cordova: https://cordova.apache.org/
 
-### Estudo
+### Estudo:
 
 - Trabalhe com 1 ou 2 amigos (3 pessoas no máximo)
 - Faça paring (par programming) - Agile [Extreme Programming](https://www.agilealliance.org/glossary/xp/#q=~(infinite~false~filters~(postType~(~'post~'aa_book~'aa_event_session~'aa_experience_report~'aa_glossary~'aa_research_paper~'aa_video)~tags~(~'xp))~searchTerm~'~sort~false~sortDirection~'asc~page~1))
@@ -68,7 +68,7 @@ Vídeos sobre a instalação no Linux: https://www.youtube.com/channel/danielsca
 - Use arquitetura MVC (Model, View, Controller) - Design Pattern
 - Desenvolva localmente (localhost - ambiente de desenvolvimento), e depois faça deploy (implatação em produção) online em nuvem (Google Cloud, AWS ou Azure)
 
-### Ajuda
+### Ajuda:
 
  - https://stackoverflow.com/
  - [@danielscarvalho](https://twitter.com/danielscarvalho)
@@ -80,7 +80,7 @@ Vídeos sobre a instalação no Linux: https://www.youtube.com/channel/danielsca
 Para sua carreira como **Engenheiro de Computação** você deve dominar a tecnologia WEB (core  - fundamentos). Aprenda bem a criar WEB APIs com Java Servlets & JSP, os conceitos se aplicam a qualquer outra _tranqueira_ de tecnologia da moda que venha a surgir (e depois desaparecer).
 
 
-### Etc
+### Etc:
 
 <img src="https://www.jrebel.com/wp-content/uploads/2017/04/Screenshot-2017-04-12-22.49.03-640x159.png" width="600">
 https://www.jrebel.com/blog/maven-cheat-sheet
