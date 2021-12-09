@@ -19,15 +19,17 @@ Vídeos sobre a instalação no Linux: https://www.youtube.com/channel/danielsca
 
  - Head First Servlets and JSP - por Bryan Basham, Kathy Sierra, Bert Bates
 
-<img src="https://m.media-amazon.com/images/I/512ENhc5KIL.jpg" width="600">
+<img src="https://m.media-amazon.com/images/I/512ENhc5KIL.jpg" width="400">
  
 - Murach's Java Servlets and JSP: por Joel Murach, Michael Urban
 
-<img src="https://images-na.ssl-images-amazon.com/images/I/51PNFtMQBaL._SX258_BO1,204,203,200_.jpg" width="600">
+<img src="https://images-na.ssl-images-amazon.com/images/I/51PNFtMQBaL._SX258_BO1,204,203,200_.jpg" width="400">
 
 ### Vídeo:
 
 - Servlet & JSP Tutorial | Full Course - https://www.youtube.com/watch?v=OuBUUkQfBYM&t (6 horas)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OuBUUkQfBYM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Referências (documentação online e tutoriais):
 
