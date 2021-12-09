@@ -1,7 +1,7 @@
 # FTT-LP3-Extra
 Linguagem de Programação 3 (Java WEB) estudo extra
 
-CEFSA -FTT - EC (Engenharia da Computação)
+CEFSA - FTT - EC (Engenharia da Computação)
 
 ### Ambiente: Instalar (Versões mais recentes)
 
