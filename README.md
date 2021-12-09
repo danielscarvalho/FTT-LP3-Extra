@@ -40,4 +40,4 @@ Vídeos sobre a instalação no Linux: https://www.youtube.com/channel/danielsca
 - JSON: https://www.w3schools.com/js/js_json_intro.asp
 - XML: https://www.w3schools.com/xml/default.asp
 
-> Para sua carreira como *Engenheiro de Computação* você deve dominar a tecnologia WEB (core  - fundamentos). Aprenda bem com Java (Servlets & JSP), os conceitos se aplicam a qualquer outra _tranqueira_ de tecnologia da moda que veja a sugir.
+> Para sua carreira como **Engenheiro de Computação** você deve dominar a tecnologia WEB (core  - fundamentos). Aprenda bem com Java (Servlets & JSP), os conceitos se aplicam a qualquer outra _tranqueira_ de tecnologia da moda que venha a sugir.
