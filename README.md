@@ -27,9 +27,9 @@ Vídeos sobre a instalação no Linux: https://www.youtube.com/channel/danielsca
 
 ### Vídeo:
 
-- Servlet & JSP Tutorial | Full Course - https://www.youtube.com/watch?v=OuBUUkQfBYM&t (6 horas)
+- Servlet & JSP Tutorial | Full Course - https://www.youtube.com/watch?v=OuBUUkQfBYM (6 horas)
 
-[![Servlet & JSP Tutorial](https://img.youtube.com/vi/OuBUUkQfBYM&t/0.jpg)](https://www.youtube.com/watch?v=OuBUUkQfBYM&t "Servlet & JSP Tutorial")
+[![Servlet & JSP Tutorial](https://img.youtube.com/vi/OuBUUkQfBYM/0.jpg)](https://www.youtube.com/watch?v=OuBUUkQfBYM "Servlet & JSP Tutorial")
 
 ### Referências (documentação online e tutoriais):
 
