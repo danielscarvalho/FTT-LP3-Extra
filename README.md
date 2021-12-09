@@ -80,11 +80,11 @@ Para sua carreira como **Engenheiro de Computação** você deve dominar a tecno
 
 ### Etc:
 
-![Apache Maven](https://www.jrebel.com/wp-content/uploads/2017/04/Screenshot-2017-04-12-22.49.03-640x159.png|width=400)<br>
+![Apache Maven](https://www.jrebel.com/wp-content/uploads/2017/04/Screenshot-2017-04-12-22.49.03-640x159.png |width=400)<br>
 https://www.jrebel.com/blog/maven-cheat-sheet
 
-![MVC](https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/JSP_Model_2.svg/1200px-JSP_Model_2.svg.png|width=400)<br>
+![MVC](https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/JSP_Model_2.svg/1200px-JSP_Model_2.svg.png |width=400)<br>
 https://en.wikipedia.org/wiki/JSP_model_2_architecture
 
-![Servlet](https://miro.medium.com/max/700/0*ekKkBHtFr8b47CYQ.png|width=400)<br>
+![Servlet](https://miro.medium.com/max/700/0*ekKkBHtFr8b47CYQ.png |width=400)<br>
 https://felipece7.medium.com/utilizando-servlet-puro-82e55ab32fbe
