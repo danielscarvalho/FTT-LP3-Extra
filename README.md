@@ -65,6 +65,11 @@ Vídeos sobre a instalação no Linux: https://www.youtube.com/channel/danielsca
 - Use arquitetura MVC (Model, View, Controller)
 - Desenvolva localmente (localhost - ambiente de desenvolvimento), e depois faça deploy (implatação em produção) online em nuvem (Google Cloud, AWS ou Azure)
 
+# Ajuda
+
+ - https://stackoverflow.com/
+ - [@danielscarvalho](https://twitter.com/danielscarvalho)
+
 > A oportunidade faverece a mente preparada - Louis Pasteur
 
 ---
