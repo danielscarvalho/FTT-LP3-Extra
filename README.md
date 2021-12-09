@@ -11,7 +11,7 @@ CEFSA - FTT - EC (Engenharia da Computação)
 - Apache Maven: https://maven.apache.org/
 - MySQL: https://dev.mysql.com/downloads/
 
-Ambiente Línux é melhor, pode usar Oracle Virtual Box: https://www.virtualbox.org/
+Ambiente Linux é melhor, Ubuntu ou Debian para iniciantes, pode usar Oracle Virtual Box: https://www.virtualbox.org/
 
 Vídeos sobre a instalação no Linux: https://www.youtube.com/channel/danielscarvalhoeng
 
