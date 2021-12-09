@@ -32,6 +32,7 @@ Vídeos sobre a instalação no Linux: https://www.youtube.com/channel/danielsca
 ### Referências (documentação online e tutoriais):
 
 - Servelt e JSP: https://docs.oracle.com/javaee/7/tutorial/servlets.htm
+- JavaBean: https://www.javatpoint.com/java-bean
 - JavaScript: https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
 - HTML 5: https://www.w3schools.com/html/default.asp
 - CSS 3: https://www.w3schools.com/css/default.asp
@@ -61,6 +62,7 @@ Vídeos sobre a instalação no Linux: https://www.youtube.com/channel/danielsca
 - Construa uma aplicação WEB (prática)
 - Construa uma aplicação Mobile híbrida (prática)
 - Use Git & GitHub para gestão de código, etc...
+- Use arquitetura MVC
 
 > A oportunidade faverece a mente preparada - Louis Pasteur
 
