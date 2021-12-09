@@ -63,6 +63,7 @@ Vídeos sobre a instalação no Linux: https://www.youtube.com/channel/danielsca
 - Construa uma aplicação Mobile híbrida (prática)
 - Use Git & GitHub para gestão de código, etc...
 - Use arquitetura MVC (Model, View, Controller)
+- Desenvolva localmente (localhost - ambiente de desenvolvimento), e depois faça deploy (implatnação em produção) online em nuvem (Google Cloud, AWS ou Azure)
 
 > A oportunidade faverece a mente preparada - Louis Pasteur
 
