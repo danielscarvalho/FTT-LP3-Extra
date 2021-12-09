@@ -74,4 +74,4 @@ Vídeos sobre a instalação no Linux: https://www.youtube.com/channel/danielsca
 
 ---
 
-> Para sua carreira como **Engenheiro de Computação** você deve dominar a tecnologia WEB (core  - fundamentos). Aprenda bem a criar WEB APIs com Java Servlets & JSP, os conceitos se aplicam a qualquer outra _tranqueira_ de tecnologia da moda que venha a sugir (e depois desaparecer).
+Para sua carreira como **Engenheiro de Computação** você deve dominar a tecnologia WEB (core  - fundamentos). Aprenda bem a criar WEB APIs com Java Servlets & JSP, os conceitos se aplicam a qualquer outra _tranqueira_ de tecnologia da moda que venha a sugir (e depois desaparecer).
