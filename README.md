@@ -31,7 +31,7 @@ Vídeos sobre a instalação no Linux: https://www.youtube.com/channel/danielsca
 
 ### Referências (documentação online e tutoriais):
 
-- Servelt e JSP: https://docs.oracle.com/javaee/7/tutorial/servlets.htm
+- Servlet e JSP: https://docs.oracle.com/javaee/7/tutorial/servlets.htm
 - JavaBean: https://www.javatpoint.com/java-bean
 - JavaScript: https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
 - HTML 5: https://www.w3schools.com/html/default.asp
