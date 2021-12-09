@@ -78,7 +78,7 @@ Vídeos sobre a instalação no Linux: https://www.youtube.com/channel/danielsca
 Para sua carreira como **Engenheiro de Computação** você deve dominar a tecnologia WEB (core  - fundamentos). Aprenda bem a criar WEB APIs com Java Servlets & JSP, os conceitos se aplicam a qualquer outra _tranqueira_ de tecnologia da moda que venha a surgir (e depois desaparecer).
 
 
-### Etc:
+### Etc
 
 <img src="https://www.jrebel.com/wp-content/uploads/2017/04/Screenshot-2017-04-12-22.49.03-640x159.png" width="600">
 https://www.jrebel.com/blog/maven-cheat-sheet
