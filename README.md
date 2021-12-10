@@ -64,7 +64,7 @@ Vídeos sobre a instalação no Linux: https://www.youtube.com/channel/danielsca
 - Bootstrap: https://getbootstrap.com/
 - Apache Cordova: https://cordova.apache.org/
 
-### Estudo:
+### Projeto:
 
 - Trabalhe com 1 ou 2 amigos (3 pessoas no máximo)
 - Faça paring (par programming) - Agile [Extreme Programming](https://www.agilealliance.org/glossary/xp/#q=~(infinite~false~filters~(postType~(~'post~'aa_book~'aa_event_session~'aa_experience_report~'aa_glossary~'aa_research_paper~'aa_video)~tags~(~'xp))~searchTerm~'~sort~false~sortDirection~'asc~page~1))
