@@ -50,6 +50,7 @@ Vídeos sobre a instalação no Linux: https://www.youtube.com/channel/danielsca
 - JSON: https://www.w3schools.com/js/js_json_intro.asp
 - XML: https://www.w3schools.com/xml/default.asp
 - GIT: https://git-scm.com/
+- SSL: https://letsencrypt.org/
 
 ### Frameworks back-end Java:
 
